@@ -10,6 +10,9 @@ brew tap caskroom/versions
 echo "Installing git"
 brew install git
 
+#java
+brew cask install java
+
 #sublime text
 echo "Installing Sublime Text"
 brew cask install sublime-text
